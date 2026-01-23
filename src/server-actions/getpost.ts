@@ -13,6 +13,7 @@ export async function getPostBySlug(slug:string){
             description:true,
             title:true,
             content:true,
+            slug:true,
             coverImageUrl:true,
             createdAt:true,
             author:{

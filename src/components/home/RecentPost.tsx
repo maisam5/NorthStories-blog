@@ -8,7 +8,7 @@ import Link from "next/link";
 
 import { LuArrowBigRight } from "react-icons/lu";
 
-const baseUrl = "http://localhost:3000"
+const baseUrl = "https://north-stories-blog.vercel.app/"
 
 
 export default async function RecentPost() {
